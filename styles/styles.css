@@ -57,3 +57,19 @@ a[href*="projectblitz"] {
 a[href*="crashstreet"] {
   font-style: italic;
 }
+
+#top1 > li {
+  font-weight: bold;
+}
+
+#top2 > li {
+  font-weight: bold;
+}
+
+#top3 > li {
+  font-weight: bold;
+}
+
+#top4 > li {
+  font-weight: bold;
+}
