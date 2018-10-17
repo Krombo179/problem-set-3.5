@@ -73,3 +73,41 @@ a[href*="crashstreet"] {
 #top4 > li {
   font-weight: bold;
 }
+
+a:link {
+  color: Navy;
+}
+
+a:visited {
+  color: rgb(99, 20, 132);
+}
+
+a:hover {
+  color: Gray;
+}
+
+.subtitle {
+  font-size: 15px;
+}
+
+.subheading {
+  font: 25px arial, sans-serif;
+}
+
+.pictures {
+  border-style: outset;
+  border-width: 10px;
+  border-color: DarkRed;
+}
+
+#closetimg {
+  height: 75%;
+  width: 75%;
+}
+
+#tablepictures {
+  border-style: solid;
+  border-color: Black;
+  height: 450px;
+  width: 450px;
+}
